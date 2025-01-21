@@ -35,7 +35,7 @@ Este proyecto consiste en una aplicación de consola en **Java** que realiza con
     2.  Clona el repositorio en la raíz del proyecto:
 
     ```bash
-    git clone [https://github.com/WiscasHubble/ConversorDeMonedas.git](https://github.com/WiscasHubble/ConversorDeMonedas.git)
+    git clone [https://github.com/jano-iestp/conversorDivisas.git](https://github.com/jano-iestp/conversorDivisas.git)
     ```
 
     3. Importar el proyecto como proyecto Maven (Si usa IntelliJ IDEA, lo detecta automáticamente al abrir la carpeta raíz del proyecto).
